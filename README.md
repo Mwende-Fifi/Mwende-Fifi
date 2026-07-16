@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Fraud+Risk Analytics;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Fraud+%26+Risk+Analytics;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Tableau;Open+to+Fintech+Roles" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -40,13 +40,17 @@ Open to Data Analyst, Junior Data Scientist, or Risk/Fraud Analyst roles, partic
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
+
 **Machine Learning**
+
 <p>
   <img src="https://img.shields.io/badge/pandas-Beginner-150458?style=flat&logo=pandas&logoColor=white" alt="pandas Skill Badge">
   <img src="https://img.shields.io/badge/scikit--Beginner-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn Skill Badge">
   <img src="https://img.shields.io/badge/XGBoost-Beginner-2C3E50?style=flat&logo=xgboost&logoColor=white" alt="XGBoost Skill Badge">
 </p>
+
 **Visualization & BI**
+
 <p>
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
