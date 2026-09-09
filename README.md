@@ -20,14 +20,14 @@ BSc Statistics, JKUAT. Former Data Science TA — supported 50+ students, contri
 Open to Data Analyst, Junior Data Scientist, or Risk/Fraud Analyst roles, particularly in fintech.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](github.com/Mwende-Fifi/Mwende-Fifi.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
 - **Currently Learning:** Working through DataCamp's [Associate Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql) career track.
 - **In Progress:** Working through [Analyzing Students' Mental Health](https://app.datacamp.com/learn/projects/analyzing_students_mental_health) on DataCamp.
 
-## 🌱 Currently Learning 
+## 🌱 Recently Completed 
 
 - Data Protection, [Strathmore University CIPIT](https://strathmore.edu/) — connecting fintech data work to Kenya's Data Protection Act and ODPC compliance
 
