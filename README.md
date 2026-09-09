@@ -20,7 +20,7 @@ BSc Statistics, JKUAT. Former Data Science TA — supported 50+ students, contri
 Open to Data Analyst, Junior Data Scientist, or Risk/Fraud Analyst roles, particularly in fintech.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website][(https://mwende-fifi.github.io/))]
+### [🏆 Check Out My Full Portfolio Website](https://mwende-fifi.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
